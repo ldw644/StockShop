@@ -1,0 +1,8 @@
+depend: [Vault]
+name: StockShop
+main: indi.williamliu.stockshop.StockShopMain
+version: 0.0.1-SNAPSHOT
+commands:
+  ss:
+    description: ss
+    usage: /<command> help 获取帮助
