@@ -1,2 +1,6 @@
 # StockShop
-Minecraft server plugin. Provides a plugin that ACTS like a stock exchange.
+Minecraft server plugin. 
+Support Server: Spigot
+Provides a plugin that ACTS like a stock exchange.
+
+Support Version: 1.12-
